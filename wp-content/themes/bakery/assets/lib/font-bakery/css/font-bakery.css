@@ -1,0 +1,249 @@
+@font-face {
+  font-family: 'Bakery';
+  src:  url('../fonts/Bakery.eot?24p8gl');
+  src:  url('../fonts/Bakery.eot?24p8gl#iefix') format('embedded-opentype'),
+    url('../fonts/Bakery.ttf?24p8gl') format('truetype'),
+    url('../fonts/Bakery.woff?24p8gl') format('woff'),
+    url('../fonts/Bakery.svg?24p8gl#Bakery') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="vu_fb-"], [class*=" vu_fb-"] {
+  font-family: 'Bakery' !important;
+  display: inline-block;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.vu_fb-shrimp:before { content: "\e900"; }
+.vu_fb-chef-2:before { content: "\e901"; }
+.vu_fb-sushi:before { content: "\e902"; }
+.vu_fb-chopsticks:before { content: "\e903"; }
+.vu_fb-whisk:before { content: "\e904"; }
+.vu_fb-knife:before { content: "\e905"; }
+.vu_fb-mitten:before { content: "\e906"; }
+.vu_fb-refrigerator:before { content: "\e907"; }
+.vu_fb-spatula:before { content: "\e908"; }
+.vu_fb-toast:before { content: "\e909"; }
+.vu_fb-cupcake-8:before { content: "\e90a"; }
+.vu_fb-pretzel-1:before { content: "\e90b"; }
+.vu_fb-coffee-5:before { content: "\e90c"; }
+.vu_fb-croissant-4:before { content: "\e90d"; }
+.vu_fb-food-31:before { content: "\e90e"; }
+.vu_fb-food-30:before { content: "\e90f"; }
+.vu_fb-food-29:before { content: "\e910"; }
+.vu_fb-pastry-2:before { content: "\e911"; }
+.vu_fb-pastry-1:before { content: "\e912"; }
+.vu_fb-food-28:before { content: "\e913"; }
+.vu_fb-rolling-pin:before { content: "\e914"; }
+.vu_fb-coffee-cup-4:before { content: "\e915"; }
+.vu_fb-kitchen-utensils:before { content: "\e916"; }
+.vu_fb-pastry:before { content: "\e917"; }
+.vu_fb-pretzel:before { content: "\e918"; }
+.vu_fb-cake-3:before { content: "\e919"; }
+.vu_fb-food-27:before { content: "\e91a"; }
+.vu_fb-cutting-board:before { content: "\e91b"; }
+.vu_fb-grill:before { content: "\e91c"; }
+.vu_fb-waiter:before { content: "\e91d"; }
+.vu_fb-rice:before { content: "\e91e"; }
+.vu_fb-pin:before { content: "\e91f"; }
+.vu_fb-open-3:before { content: "\e920"; }
+.vu_fb-noodles:before { content: "\e921"; }
+.vu_fb-dish-1:before { content: "\e922"; }
+.vu_fb-closed-1:before { content: "\e923"; }
+.vu_fb-restaurant-4:before { content: "\e924"; }
+.vu_fb-dinner-2:before { content: "\e925"; }
+.vu_fb-pizza-5:before { content: "\e926"; }
+.vu_fb-open-2:before { content: "\e927"; }
+.vu_fb-coffee-4:before { content: "\e928"; }
+.vu_fb-piece-of-cake-1:before { content: "\e929"; }
+.vu_fb-restaurant-3:before { content: "\e92a"; }
+.vu_fb-coffee-3:before { content: "\e92b"; }
+.vu_fb-dinner-1:before { content: "\e92c"; }
+.vu_fb-booked:before { content: "\e92d"; }
+.vu_fb-restaurant-2:before { content: "\e92e"; }
+.vu_fb-pizza-slice:before { content: "\e92f"; }
+.vu_fb-pizza-4:before { content: "\e930"; }
+.vu_fb-open-1:before { content: "\e931"; }
+.vu_fb-menu-1:before { content: "\e932"; }
+.vu_fb-coffee-2:before { content: "\e933"; }
+.vu_fb-restaurant-1:before { content: "\e934"; }
+.vu_fb-dinner:before { content: "\e935"; }
+.vu_fb-piece-of-cake:before { content: "\e936"; }
+.vu_fb-birthday-cake-3:before { content: "\e937"; }
+.vu_fb-food-26:before { content: "\e938"; }
+.vu_fb-cutlery-2:before { content: "\e939"; }
+.vu_fb-beverage-1:before { content: "\e93a"; }
+.vu_fb-beverage:before { content: "\e93b"; }
+.vu_fb-cheese-burger:before { content: "\e93c"; }
+.vu_fb-food-25:before { content: "\e93d"; }
+.vu_fb-cake-2:before { content: "\e93e"; }
+.vu_fb-sandwich-1:before { content: "\e93f"; }
+.vu_fb-cupcake-7:before { content: "\e940"; }
+.vu_fb-cupcake-6:before { content: "\e941"; }
+.vu_fb-croissant-3:before { content: "\e942"; }
+.vu_fb-taco-1:before { content: "\e943"; }
+.vu_fb-cookies-1:before { content: "\e944"; }
+.vu_fb-food-24:before { content: "\e945"; }
+.vu_fb-biscuit:before { content: "\e946"; }
+.vu_fb-food-23:before { content: "\e947"; }
+.vu_fb-food-22:before { content: "\e948"; }
+.vu_fb-food-21:before { content: "\e949"; }
+.vu_fb-food-20:before { content: "\e94a"; }
+.vu_fb-food-19:before { content: "\e94b"; }
+.vu_fb-bread-3:before { content: "\e94c"; }
+.vu_fb-birthday-cake-2:before { content: "\e94d"; }
+.vu_fb-food-18:before { content: "\e94e"; }
+.vu_fb-food-17:before { content: "\e94f"; }
+.vu_fb-food-16:before { content: "\e950"; }
+.vu_fb-scooter:before { content: "\e951"; }
+.vu_fb-cupcake-5:before { content: "\e952"; }
+.vu_fb-hamburger-5:before { content: "\e953"; }
+.vu_fb-fast-food:before { content: "\e954"; }
+.vu_fb-cutlery-1:before { content: "\e955"; }
+.vu_fb-dish:before { content: "\e956"; }
+.vu_fb-food-15:before { content: "\e957"; }
+.vu_fb-food-14:before { content: "\e958"; }
+.vu_fb-tea:before { content: "\e959"; }
+.vu_fb-coffee-1:before { content: "\e95a"; }
+.vu_fb-groceries:before { content: "\e95b"; }
+.vu_fb-apple:before { content: "\e95c"; }
+.vu_fb-tomato:before { content: "\e95d"; }
+.vu_fb-cherries:before { content: "\e95e"; }
+.vu_fb-broccoli:before { content: "\e95f"; }
+.vu_fb-chef-1:before { content: "\e960"; }
+.vu_fb-cheese:before { content: "\e961"; }
+.vu_fb-food-13:before { content: "\e962"; }
+.vu_fb-food-12:before { content: "\e963"; }
+.vu_fb-food-11:before { content: "\e964"; }
+.vu_fb-pineapple:before { content: "\e965"; }
+.vu_fb-bread-2:before { content: "\e966"; }
+.vu_fb-food-10:before { content: "\e967"; }
+.vu_fb-sandwich:before { content: "\e968"; }
+.vu_fb-cupcake-4:before { content: "\e969"; }
+.vu_fb-grapes:before { content: "\e96a"; }
+.vu_fb-food-9:before { content: "\e96b"; }
+.vu_fb-chocolate:before { content: "\e96c"; }
+.vu_fb-cutlery:before { content: "\e96d"; }
+.vu_fb-soda-1:before { content: "\e96e"; }
+.vu_fb-pizza-3:before { content: "\e96f"; }
+.vu_fb-cocktail-glass-with-an-umbrella:before { content: "\e970"; }
+.vu_fb-birthday-cake-1:before { content: "\e971"; }
+.vu_fb-bread-basket-1:before { content: "\e972"; }
+.vu_fb-bread-oven:before { content: "\e973"; }
+.vu_fb-cream-cupcake:before { content: "\e974"; }
+.vu_fb-loaf-of-bread:before { content: "\e975"; }
+.vu_fb-one-muffin:before { content: "\e976"; }
+.vu_fb-two-macarons:before { content: "\e977"; }
+.vu_fb-cake-slice-1:before { content: "\e978"; }
+.vu_fb-two-bread-toasts:before { content: "\e979"; }
+.vu_fb-bread-basket:before { content: "\e97a"; }
+.vu_fb-cake-slice:before { content: "\e97b"; }
+.vu_fb-bread-toasts:before { content: "\e97c"; }
+.vu_fb-muffin-1:before { content: "\e97d"; }
+.vu_fb-food-8:before { content: "\e97e"; }
+.vu_fb-cupcake-2:before { content: "\e97f"; }
+.vu_fb-hamburger-4:before { content: "\e980"; }
+.vu_fb-stone-oven:before { content: "\e981"; }
+.vu_fb-hamburger-3:before { content: "\e982"; }
+.vu_fb-food-7:before { content: "\e983"; }
+.vu_fb-pastry-biscuit:before { content: "\e984"; }
+.vu_fb-double-popsicle:before { content: "\e985"; }
+.vu_fb-cupcake-with-cherry:before { content: "\e986"; }
+.vu_fb-birthday-cake-with-candle:before { content: "\e987"; }
+.vu_fb-milkshake-with-straw:before { content: "\e988"; }
+.vu_fb-ginger-bicuit:before { content: "\e989"; }
+.vu_fb-marie-biscuit-with-bite:before { content: "\e98a"; }
+.vu_fb-cookie-with-fine-chips:before { content: "\e98b"; }
+.vu_fb-sundae-with-cherry-on-top:before { content: "\e98c"; }
+.vu_fb-sweet:before { content: "\e98d"; }
+.vu_fb-ice-cream-cone-melting:before { content: "\e98e"; }
+.vu_fb-hot-chocolate-cup:before { content: "\e98f"; }
+.vu_fb-food-6:before { content: "\e990"; }
+.vu_fb-cake-slice-with-cherry:before { content: "\e991"; }
+.vu_fb-food-5:before { content: "\e992"; }
+.vu_fb-food-4:before { content: "\e993"; }
+.vu_fb-wedding-cake:before { content: "\e994"; }
+.vu_fb-food-3:before { content: "\e995"; }
+.vu_fb-food-2:before { content: "\e996"; }
+.vu_fb-delivery-truck:before { content: "\e997"; }
+.vu_fb-signs:before { content: "\e998"; }
+.vu_fb-clock:before { content: "\e999"; }
+.vu_fb-popcorn:before { content: "\e99a"; }
+.vu_fb-doughnut:before { content: "\e99b"; }
+.vu_fb-muffin:before { content: "\e99c"; }
+.vu_fb-croissant-2:before { content: "\e99d"; }
+.vu_fb-pizza-2:before { content: "\e99e"; }
+.vu_fb-hot-dog:before { content: "\e99f"; }
+.vu_fb-hamburger-2:before { content: "\e9a0"; }
+.vu_fb-french-fries-1:before { content: "\e9a1"; }
+.vu_fb-taco:before { content: "\e9a2"; }
+.vu_fb-security-man:before { content: "\e9a3"; }
+.vu_fb-soda:before { content: "\e9a4"; }
+.vu_fb-roast-chicken:before { content: "\e9a5"; }
+.vu_fb-restaurant:before { content: "\e9a6"; }
+.vu_fb-menu:before { content: "\e9a7"; }
+.vu_fb-chef:before { content: "\e9a8"; }
+.vu_fb-pizza-1:before { content: "\e9a9"; }
+.vu_fb-food-1:before { content: "\e9aa"; }
+.vu_fb-hamburger-1:before { content: "\e9ab"; }
+.vu_fb-birthday-cake:before { content: "\e9ac"; }
+.vu_fb-ice-cream:before { content: "\e9ad"; }
+.vu_fb-food:before { content: "\e9ae"; }
+.vu_fb-hamburger:before { content: "\e9af"; }
+.vu_fb-french-fries:before { content: "\e9b0"; }
+.vu_fb-fish-1:before { content: "\e9b1"; }
+.vu_fb-fish-bones:before { content: "\e9b2"; }
+.vu_fb-cupcake-1:before { content: "\e9b3"; }
+.vu_fb-croissant-1:before { content: "\e9b4"; }
+.vu_fb-candy-cane:before { content: "\e9b5"; }
+.vu_fb-bread-1:before { content: "\e9b6"; }
+.vu_fb-bread:before { content: "\e9b7"; }
+.vu_fb-tea-cup:before { content: "\e9b8"; }
+.vu_fb-coffee-machine:before { content: "\e9b9"; }
+.vu_fb-coffee-cup-3:before { content: "\e9ba"; }
+.vu_fb-cookie:before { content: "\e9bb"; }
+.vu_fb-coffee-cup-2:before { content: "\e9bc"; }
+.vu_fb-croissant:before { content: "\e9bd"; }
+.vu_fb-reserved:before { content: "\e9be"; }
+.vu_fb-closed:before { content: "\e9bf"; }
+.vu_fb-open:before { content: "\e9c0"; }
+.vu_fb-wine:before { content: "\e9c1"; }
+.vu_fb-cookies:before { content: "\e9c2"; }
+.vu_fb-cake-1:before { content: "\e9c3"; }
+.vu_fb-coffee-cup-1:before { content: "\e9c4"; }
+.vu_fb-coffee-cup:before { content: "\e9c5"; }
+.vu_fb-frappe:before { content: "\e9c6"; }
+.vu_fb-coffee:before { content: "\e9c7"; }
+.vu_fb-cezve:before { content: "\e9c8"; }
+.vu_fb-fish:before { content: "\e9c9"; }
+.vu_fb-chicken:before { content: "\e9ca"; }
+.vu_fb-pizza:before { content: "\e9cb"; }
+.vu_fb-cupcake:before { content: "\e9cc"; }
+.vu_fb-cake:before { content: "\e9cd"; }
+.vu_fb-chef-suit:before { content: "\e9ce"; }
+.vu_fb-crossed-knife-and-fork:before { content: "\e9cf"; }
+.vu_fb-round-bread:before { content: "\e9d0"; }
+.vu_fb-bell-covering-hot-dish:before { content: "\e9d1"; }
+.vu_fb-oven-mitt:before { content: "\e9d2"; }
+.vu_fb-drink-4:before { content: "\e9d3"; }
+.vu_fb-drink-3:before { content: "\e9d4"; }
+.vu_fb-drink-2:before { content: "\e9d5"; }
+.vu_fb-cocktail:before { content: "\e9d6"; }
+.vu_fb-wine-glass-full-of-drink:before { content: "\e9d7"; }
+.vu_fb-coffee-seeds:before { content: "\e9d8"; }
+.vu_fb-coffee-cup-outline:before { content: "\e9d9"; }
+.vu_fb-drink-big-tall-glass-with-soda:before { content: "\e9da"; }
+.vu_fb-hot-coffee-rounded-cup-on-a-plate-from-side-view:before { content: "\e9db"; }
+.vu_fb-soda-or-coffee-covered-glass:before { content: "\e9dc"; }
+.vu_fb-hot-coffee-cup-on-a-plate:before { content: "\e9dd"; }
+.vu_fb-drink-1:before { content: "\e9de"; }
+.vu_fb-drink:before { content: "\e9df"; }
+.vu_fb-cupcake-3:before { content: "\e9e0"; }

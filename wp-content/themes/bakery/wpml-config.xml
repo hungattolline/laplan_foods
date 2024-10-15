@@ -1,0 +1,85 @@
+<wpml-config>
+	<language-switcher-settings>
+		<key name="icl_language_switcher_sidebar">1</key>
+		<key name="icl_widget_title_show">1</key>
+		<key name="icl_lang_sel_type">dropdown</key>
+		<key name="icl_lso_link_empty">0</key>
+		<key name="icl_lso_flags">1</key>
+		<key name="icl_lso_native_lang">1</key>
+		<key name="icl_lso_display_lang">0</key>
+		<key name="icl_lang_sel_footer">0</key>
+		<key name="icl_post_availability">1</key>
+		<key name="icl_post_availability_position">below</key>
+		<key name="icl_post_availability_text">This post is also available in: %s</key>
+	</language-switcher-settings>
+	<admin-texts>
+		<key name="bakery_theme_options">
+			<key name="top-bar-left-content" />
+			<key name="top-bar-right-content" />
+
+			<key name="map-info-1" />
+			<key name="map-info-2" />
+			<key name="map-info-3" />
+			<key name="map-info-4" />
+			<key name="map-info-5" />
+			<key name="map-info-6" />
+			<key name="map-info-7" />
+			<key name="map-info-8" />
+			<key name="map-info-9" />
+			<key name="map-info-10" />
+			<key name="map-info-11" />
+			<key name="map-info-12" />
+			<key name="map-info-13" />
+			<key name="map-info-14" />
+			<key name="map-info-15" />
+			<key name="map-info-16" />
+			<key name="map-info-17" />
+			<key name="map-info-18" />
+			<key name="map-info-19" />
+			<key name="map-info-20" />
+			<key name="map-info-21" />
+			<key name="map-info-22" />
+			<key name="map-info-23" />
+			<key name="map-info-24" />
+			<key name="map-info-25" />
+			<key name="map-info-26" />
+			<key name="map-info-27" />
+			<key name="map-info-28" />
+			<key name="map-info-29" />
+			<key name="map-info-30" />
+			<key name="map-info-31" />
+			<key name="map-info-32" />
+			<key name="map-info-33" />
+			<key name="map-info-34" />
+			<key name="map-info-35" />
+			<key name="map-info-36" />
+			<key name="map-info-37" />
+			<key name="map-info-38" />
+			<key name="map-info-39" />
+			<key name="map-info-40" />
+			<key name="map-info-41" />
+			<key name="map-info-42" />
+			<key name="map-info-43" />
+			<key name="map-info-44" />
+			<key name="map-info-45" />
+			<key name="map-info-46" />
+			<key name="map-info-47" />
+			<key name="map-info-48" />
+			<key name="map-info-49" />
+			<key name="map-info-50" />
+
+			<key name="subfooter-full-content" />
+			<key name="subfooter-left-content" />
+			<key name="subfooter-right-content" />
+
+			<key name="error-page-header-title" />
+			<key name="error-page-header-subtitle" />
+			<key name="error-page-heading" />
+			<key name="error-page-description" />
+			<key name="error-page-btn-text" />
+
+			<key name="cookieconsent-head-code" />
+			<key name="cookieconsent-body-code" />
+		</key> 
+	</admin-texts>
+</wpml-config>
